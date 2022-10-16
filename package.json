@@ -1,7 +1,7 @@
 {
   "name": "cart",
   "version": "0.1.0",
-  "homepage": "https://shaonmajumder.github.io/news-react-app",
+  "homepage": "https://portfolioshaon.github.io/news-react-app",
   "private": false,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.0",
