@@ -9,6 +9,9 @@ git push -u origin main
 reference : https://github.com/renatomacedo1/redux-example.git
 
 # news-react-app
+delete lock files
+yarn install
+
 <!-- npm install gh-pages --save-dev -->
 yarn add gh-pages --dev
 yarn add gh-pages
