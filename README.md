@@ -14,6 +14,7 @@ yarn install
 
 <!-- npm install gh-pages --save-dev -->
 yarn add gh-pages --dev
+npm install gh-pages --save-dev
 yarn add gh-pages
 yarn run deploy
 
